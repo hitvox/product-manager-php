@@ -1,0 +1,17 @@
+{
+    "name": "daivison/product-manager-php",
+    "authors": [
+      {
+        "name": "Daivison Cardoso",
+        "email": "dc@hitvox.com"
+      }
+    ],
+    "require": {
+      "twig/twig": "^3.0"
+  },
+  "autoload": {
+      "psr-4": {
+          "app\\": "app/"
+      }
+  }
+}
